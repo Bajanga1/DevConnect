@@ -1,6 +1,6 @@
 {
     "mongoURI": "mongodb+srv://steven123:steven123@cluster0.i5rne.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken",
+    "jwtSecret": "https://jwt.io/#debugger-io?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ.SflKxwRJSMeKKF2QT4fwpMeJf36POk6yJV_adQssw5c",
     "githubClientId": "92cafe0451bbb1e8ab1b",
     "githubSecret": "b3cb5aa2c8947faeb2763b59cf8f79dafc0ad58d"
 }

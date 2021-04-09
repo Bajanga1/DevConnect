@@ -22,6 +22,7 @@ export const loadUser = () => async dispatch => {
         dispatch({
             type: AUTH_ERROR
         });
+        console.log('Error Auth')
     }
 }
 
@@ -86,6 +87,7 @@ export const login = (email, password) => async dispatch => {
 
   // Logout
 export const logout = () => 
+
 dispatch => {
     dispatch({type: CLEAR_PROFILE})
     dispatch({type: LOGOUT})
